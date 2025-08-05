@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Example\\CarService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFE31BB-BF85-40C0-B636-2FB72DAE8181}|CarService\\CarService.csproj|d:\\example\\carservice\\carservice\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFE31BB-BF85-40C0-B636-2FB72DAE8181}|CarService\\CarService.csproj|solutionrelative:carservice\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFE31BB-BF85-40C0-B636-2FB72DAE8181}|CarService\\CarService.csproj|d:\\example\\carservice\\carservice\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFE31BB-BF85-40C0-B636-2FB72DAE8181}|CarService\\CarService.csproj|solutionrelative:carservice\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFE31BB-BF85-40C0-B636-2FB72DAE8181}|CarService\\CarService.csproj|d:\\example\\carservice\\carservice\\serviceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFE31BB-BF85-40C0-B636-2FB72DAE8181}|CarService\\CarService.csproj|solutionrelative:carservice\\serviceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFE31BB-BF85-40C0-B636-2FB72DAE8181}|CarService\\CarService.csproj|d:\\example\\carservice\\carservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFE31BB-BF85-40C0-B636-2FB72DAE8181}|CarService\\CarService.csproj|solutionrelative:carservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFE31BB-BF85-40C0-B636-2FB72DAE8181}|CarService\\CarService.csproj|d:\\example\\carservice\\carservice\\autoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFE31BB-BF85-40C0-B636-2FB72DAE8181}|CarService\\CarService.csproj|solutionrelative:carservice\\autoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoService.cs",
+              "DocumentMoniker": "D:\\Example\\CarService\\CarService\\AutoService.cs",
+              "RelativeDocumentMoniker": "CarService\\AutoService.cs",
+              "ToolTip": "D:\\Example\\CarService\\CarService\\AutoService.cs",
+              "RelativeToolTip": "CarService\\AutoService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:45:25.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceOrder.cs",
+              "DocumentMoniker": "D:\\Example\\CarService\\CarService\\ServiceOrder.cs",
+              "RelativeDocumentMoniker": "CarService\\ServiceOrder.cs",
+              "ToolTip": "D:\\Example\\CarService\\CarService\\ServiceOrder.cs",
+              "RelativeToolTip": "CarService\\ServiceOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:41:38.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Example\\CarService\\CarService\\Customer.cs",
+              "RelativeDocumentMoniker": "CarService\\Customer.cs",
+              "ToolTip": "D:\\Example\\CarService\\CarService\\Customer.cs",
+              "RelativeToolTip": "CarService\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:36:03.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Example\\CarService\\CarService\\Car.cs",
+              "RelativeDocumentMoniker": "CarService\\Car.cs",
+              "ToolTip": "D:\\Example\\CarService\\CarService\\Car.cs*",
+              "RelativeToolTip": "CarService\\Car.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:30:54.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Example\\CarService\\CarService\\Program.cs",
+              "RelativeDocumentMoniker": "CarService\\Program.cs",
+              "ToolTip": "D:\\Example\\CarService\\CarService\\Program.cs",
+              "RelativeToolTip": "CarService\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:30:26.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

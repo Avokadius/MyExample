@@ -1,0 +1,14 @@
+D:\Example\ElectroBook\ElectroBook\bin\Debug\net9.0\ElectroBook.exe
+D:\Example\ElectroBook\ElectroBook\bin\Debug\net9.0\ElectroBook.deps.json
+D:\Example\ElectroBook\ElectroBook\bin\Debug\net9.0\ElectroBook.runtimeconfig.json
+D:\Example\ElectroBook\ElectroBook\bin\Debug\net9.0\ElectroBook.dll
+D:\Example\ElectroBook\ElectroBook\bin\Debug\net9.0\ElectroBook.pdb
+D:\Example\ElectroBook\ElectroBook\obj\Debug\net9.0\ElectroBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Example\ElectroBook\ElectroBook\obj\Debug\net9.0\ElectroBook.AssemblyInfoInputs.cache
+D:\Example\ElectroBook\ElectroBook\obj\Debug\net9.0\ElectroBook.AssemblyInfo.cs
+D:\Example\ElectroBook\ElectroBook\obj\Debug\net9.0\ElectroBook.csproj.CoreCompileInputs.cache
+D:\Example\ElectroBook\ElectroBook\obj\Debug\net9.0\ElectroBook.dll
+D:\Example\ElectroBook\ElectroBook\obj\Debug\net9.0\refint\ElectroBook.dll
+D:\Example\ElectroBook\ElectroBook\obj\Debug\net9.0\ElectroBook.pdb
+D:\Example\ElectroBook\ElectroBook\obj\Debug\net9.0\ElectroBook.genruntimeconfig.cache
+D:\Example\ElectroBook\ElectroBook\obj\Debug\net9.0\ref\ElectroBook.dll

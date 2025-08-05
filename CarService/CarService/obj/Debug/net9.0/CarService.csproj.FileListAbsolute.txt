@@ -1,0 +1,14 @@
+D:\Example\CarService\CarService\bin\Debug\net9.0\CarService.exe
+D:\Example\CarService\CarService\bin\Debug\net9.0\CarService.deps.json
+D:\Example\CarService\CarService\bin\Debug\net9.0\CarService.runtimeconfig.json
+D:\Example\CarService\CarService\bin\Debug\net9.0\CarService.dll
+D:\Example\CarService\CarService\bin\Debug\net9.0\CarService.pdb
+D:\Example\CarService\CarService\obj\Debug\net9.0\CarService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Example\CarService\CarService\obj\Debug\net9.0\CarService.AssemblyInfoInputs.cache
+D:\Example\CarService\CarService\obj\Debug\net9.0\CarService.AssemblyInfo.cs
+D:\Example\CarService\CarService\obj\Debug\net9.0\CarService.csproj.CoreCompileInputs.cache
+D:\Example\CarService\CarService\obj\Debug\net9.0\CarService.dll
+D:\Example\CarService\CarService\obj\Debug\net9.0\refint\CarService.dll
+D:\Example\CarService\CarService\obj\Debug\net9.0\CarService.pdb
+D:\Example\CarService\CarService\obj\Debug\net9.0\CarService.genruntimeconfig.cache
+D:\Example\CarService\CarService\obj\Debug\net9.0\ref\CarService.dll

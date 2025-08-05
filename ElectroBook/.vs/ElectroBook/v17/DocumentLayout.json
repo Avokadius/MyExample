@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Example\\ElectroBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C29866D9-0FC7-4D5D-BC71-F84344BD8046}|ElectroBook\\ElectroBook.csproj|d:\\example\\electrobook\\electrobook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29866D9-0FC7-4D5D-BC71-F84344BD8046}|ElectroBook\\ElectroBook.csproj|solutionrelative:electrobook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29866D9-0FC7-4D5D-BC71-F84344BD8046}|ElectroBook\\ElectroBook.csproj|d:\\example\\electrobook\\electrobook\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29866D9-0FC7-4D5D-BC71-F84344BD8046}|ElectroBook\\ElectroBook.csproj|solutionrelative:electrobook\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29866D9-0FC7-4D5D-BC71-F84344BD8046}|ElectroBook\\ElectroBook.csproj|d:\\example\\electrobook\\electrobook\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29866D9-0FC7-4D5D-BC71-F84344BD8046}|ElectroBook\\ElectroBook.csproj|solutionrelative:electrobook\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29866D9-0FC7-4D5D-BC71-F84344BD8046}|ElectroBook\\ElectroBook.csproj|d:\\example\\electrobook\\electrobook\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29866D9-0FC7-4D5D-BC71-F84344BD8046}|ElectroBook\\ElectroBook.csproj|solutionrelative:electrobook\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29866D9-0FC7-4D5D-BC71-F84344BD8046}|ElectroBook\\ElectroBook.csproj|d:\\example\\electrobook\\electrobook\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29866D9-0FC7-4D5D-BC71-F84344BD8046}|ElectroBook\\ElectroBook.csproj|solutionrelative:electrobook\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "D:\\Example\\ElectroBook\\ElectroBook\\Subscription.cs",
+              "RelativeDocumentMoniker": "ElectroBook\\Subscription.cs",
+              "ToolTip": "D:\\Example\\ElectroBook\\ElectroBook\\Subscription.cs",
+              "RelativeToolTip": "ElectroBook\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T20:53:55.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Example\\ElectroBook\\ElectroBook\\User.cs",
+              "RelativeDocumentMoniker": "ElectroBook\\User.cs",
+              "ToolTip": "D:\\Example\\ElectroBook\\ElectroBook\\User.cs",
+              "RelativeToolTip": "ElectroBook\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T20:38:56.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EBook.cs",
+              "DocumentMoniker": "D:\\Example\\ElectroBook\\ElectroBook\\EBook.cs",
+              "RelativeDocumentMoniker": "ElectroBook\\EBook.cs",
+              "ToolTip": "D:\\Example\\ElectroBook\\ElectroBook\\EBook.cs",
+              "RelativeToolTip": "ElectroBook\\EBook.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:17:34.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Example\\ElectroBook\\ElectroBook\\Program.cs",
+              "RelativeDocumentMoniker": "ElectroBook\\Program.cs",
+              "ToolTip": "D:\\Example\\ElectroBook\\ElectroBook\\Program.cs",
+              "RelativeToolTip": "ElectroBook\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:16:43.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\Example\\ElectroBook\\ElectroBook\\Library.cs",
+              "RelativeDocumentMoniker": "ElectroBook\\Library.cs",
+              "ToolTip": "D:\\Example\\ElectroBook\\ElectroBook\\Library.cs",
+              "RelativeToolTip": "ElectroBook\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T21:03:14.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
