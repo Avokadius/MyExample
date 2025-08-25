@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Example\\LibraryManagementSystemExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A40D9B-61F5-4CD4-97E0-8F29A083EC1F}|LibraryManagementSystemExample\\LibraryManagementSystemExample.csproj|d:\\example\\librarymanagementsystemexample\\librarymanagementsystemexample\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A40D9B-61F5-4CD4-97E0-8F29A083EC1F}|LibraryManagementSystemExample\\LibraryManagementSystemExample.csproj|solutionrelative:librarymanagementsystemexample\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A40D9B-61F5-4CD4-97E0-8F29A083EC1F}|LibraryManagementSystemExample\\LibraryManagementSystemExample.csproj|d:\\example\\librarymanagementsystemexample\\librarymanagementsystemexample\\interface\\ilibraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A40D9B-61F5-4CD4-97E0-8F29A083EC1F}|LibraryManagementSystemExample\\LibraryManagementSystemExample.csproj|solutionrelative:librarymanagementsystemexample\\interface\\ilibraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A40D9B-61F5-4CD4-97E0-8F29A083EC1F}|LibraryManagementSystemExample\\LibraryManagementSystemExample.csproj|d:\\example\\librarymanagementsystemexample\\librarymanagementsystemexample\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A40D9B-61F5-4CD4-97E0-8F29A083EC1F}|LibraryManagementSystemExample\\LibraryManagementSystemExample.csproj|solutionrelative:librarymanagementsystemexample\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A40D9B-61F5-4CD4-97E0-8F29A083EC1F}|LibraryManagementSystemExample\\LibraryManagementSystemExample.csproj|d:\\example\\librarymanagementsystemexample\\librarymanagementsystemexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A40D9B-61F5-4CD4-97E0-8F29A083EC1F}|LibraryManagementSystemExample\\LibraryManagementSystemExample.csproj|solutionrelative:librarymanagementsystemexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A40D9B-61F5-4CD4-97E0-8F29A083EC1F}|LibraryManagementSystemExample\\LibraryManagementSystemExample.csproj|d:\\example\\librarymanagementsystemexample\\librarymanagementsystemexample\\stand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A40D9B-61F5-4CD4-97E0-8F29A083EC1F}|LibraryManagementSystemExample\\LibraryManagementSystemExample.csproj|solutionrelative:librarymanagementsystemexample\\stand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A40D9B-61F5-4CD4-97E0-8F29A083EC1F}|LibraryManagementSystemExample\\LibraryManagementSystemExample.csproj|d:\\example\\librarymanagementsystemexample\\librarymanagementsystemexample\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A40D9B-61F5-4CD4-97E0-8F29A083EC1F}|LibraryManagementSystemExample\\LibraryManagementSystemExample.csproj|solutionrelative:librarymanagementsystemexample\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "D:\\Example\\LibraryManagementSystemExample\\LibraryManagementSystemExample\\Magazine.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemExample\\Magazine.cs",
+              "ToolTip": "D:\\Example\\LibraryManagementSystemExample\\LibraryManagementSystemExample\\Magazine.cs",
+              "RelativeToolTip": "LibraryManagementSystemExample\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:59:02.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Example\\LibraryManagementSystemExample\\LibraryManagementSystemExample\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemExample\\Book.cs",
+              "ToolTip": "D:\\Example\\LibraryManagementSystemExample\\LibraryManagementSystemExample\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystemExample\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:48:30.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILibraryItem.cs",
+              "DocumentMoniker": "D:\\Example\\LibraryManagementSystemExample\\LibraryManagementSystemExample\\Interface\\ILibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemExample\\Interface\\ILibraryItem.cs",
+              "ToolTip": "D:\\Example\\LibraryManagementSystemExample\\LibraryManagementSystemExample\\Interface\\ILibraryItem.cs",
+              "RelativeToolTip": "LibraryManagementSystemExample\\Interface\\ILibraryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:57:11.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Example\\LibraryManagementSystemExample\\LibraryManagementSystemExample\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemExample\\Program.cs",
+              "ToolTip": "D:\\Example\\LibraryManagementSystemExample\\LibraryManagementSystemExample\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystemExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:40:50.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stand.cs",
+              "DocumentMoniker": "D:\\Example\\LibraryManagementSystemExample\\LibraryManagementSystemExample\\Stand.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemExample\\Stand.cs",
+              "ToolTip": "D:\\Example\\LibraryManagementSystemExample\\LibraryManagementSystemExample\\Stand.cs",
+              "RelativeToolTip": "LibraryManagementSystemExample\\Stand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:16:51.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\Example\\LibraryManagementSystemExample\\LibraryManagementSystemExample\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemExample\\Library.cs",
+              "ToolTip": "D:\\Example\\LibraryManagementSystemExample\\LibraryManagementSystemExample\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystemExample\\Library.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:59:17.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
